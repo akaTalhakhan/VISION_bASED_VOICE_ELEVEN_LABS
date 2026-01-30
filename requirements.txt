@@ -4,8 +4,6 @@ whisper>=1.1.10,<2.0.0
 elevenlabs>=2.6.0,<3.0.0
 fastapi>=0.115.14,<0.116.0
 streamlit>=1.46.1,<2.0.0
-audiorecorder>=0.1,<0.2
-streamlit-audiorecorder>=0.0.6,<0.0.7
 opencv-python>=4.12.0.88,<5.0.0.0
 pytube>=15.0.0,<16.0.0
 python-multipart>=0.0.20,<0.0.21
@@ -17,3 +15,4 @@ yt-dlp>=2025.6.30,<2026.0.0
 ffmpeg>=1.4,<2.0
 streamlit-mic-recorder>=0.0.8,<0.0.9
 aiohttp>=3.12.14,<4.0.0
+
